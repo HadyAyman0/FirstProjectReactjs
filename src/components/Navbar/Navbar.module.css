@@ -1,0 +1,9 @@
+/* .nav :glopal(a):hover
+{
+color: blue;
+} */
+
+ .nav :global( ul li a ):hover
+{
+    color: beige;
+}
